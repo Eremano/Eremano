@@ -10,7 +10,7 @@ I am a programmer who has been studying programming since I was 12 years old.
 ## What i'm learning?
 I learning C++, Python, HTML/CSS, Go and i want continue learning other programming languages because it is very interesting and important for me.
 
-##and also
+## And also
 If you want to contact me, you can write to me on Telegram, my @ is @Heremanitaaa (name: Steep🗽)
 
 If you have any task, write to me! Maybe I can help you.
